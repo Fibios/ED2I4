@@ -12,6 +12,7 @@ namespace ExAviaoVetoresBiETri
 {
     public partial class Form1 : Form
     {
+        //fasdfasdf
         Button[,] btnLugares;
         Button btnOk, btnReservar;
         ComboBox cbDias;
